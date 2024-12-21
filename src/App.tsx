@@ -219,7 +219,7 @@ function App() {
                 <p>
                   This project is open source.{" "}
                   <a
-                    href="https://github.com/abi/secret-llama"
+                    href="https://github.com/habtamuBahirdar/offline_gpt"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
